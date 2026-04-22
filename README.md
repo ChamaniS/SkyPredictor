@@ -34,8 +34,8 @@ Contains:
 - Identified correlations between weather and air quality variables
 - Explored geographical variations across countries
 
-3. **Feature Engineering
-- Created lag features (previous observations)**
+3. **Feature Engineering**
+- Created lag features (previous observations)
 - Generated rolling statistics for temporal patterns
 - Incorporated environmental variables
 
