@@ -40,6 +40,7 @@ Contains:
 - Incorporated environmental variables
 
 4. **Modeling & Forecasting**
+
 Implemented and compared multiple models:
 - Baseline (Persistence Model)
 - Linear Regression
