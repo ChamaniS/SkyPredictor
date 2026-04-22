@@ -41,24 +41,24 @@ Contains:
 
 4. **Modeling & Forecasting**
 - Implemented and compared multiple models:
-######Baseline (Persistence Model)
-######Linear Regression
-######Random Forest Regressor
-######Gradient Boosting Regressor
-######Ensemble Model
+1. Baseline (Persistence Model)
+2. Linear Regression
+3. Random Forest Regressor
+4. Gradient Boosting Regressor
+5. Ensemble Model
 
-## Evaluation Metrics:
-
-MAE (Mean Absolute Error)
-RMSE (Root Mean Squared Error)
-R^2 Score
-MAPE
-
-5. Advanced Analysis
+5. **Advanced Analysis**
 - Anomaly Detection using Isolation Forest
 - Geographical Pattern Analysis across countries and continents
 - Environmental Impact Analysis (weather vs air quality)
 - Feature Importance Analysis
+
+## Evaluation Metrics:
+
+- MAE (Mean Absolute Error)
+- RMSE (Root Mean Squared Error)
+- R^2 Score
+- MAPE
 
 
 ## Key Insights
@@ -81,11 +81,12 @@ MAPE
 - Real-time forecasting pipeline
 
 ## Tech Stack
-Python
-Pandas, NumPy
-Matplotlib, Seaborn
-Scikit-learn
-Country Converter
+- Python
+- Pandas 
+- NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- Country Converter
 
 ## Repository Structure
 ├── data/
