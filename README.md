@@ -12,7 +12,8 @@ This project demonstrates an end-to-end pipeline including:
 5. Advanced analyses including anomaly detection and geographical pattern exploration
 
 ## Dataset
-Source: Global Weather Repository (Kaggle)
+- Source: Global Weather Repository (Kaggle)
+- Link: https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository?resource=download
 
 Contains:
 1. Weather metrics (temperature, humidity, pressure, wind, precipitation)
