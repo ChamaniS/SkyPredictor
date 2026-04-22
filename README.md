@@ -40,12 +40,12 @@ Contains:
 - Incorporated environmental variables
 
 4. **Modeling & Forecasting**
-- Implemented and compared multiple models:
-1. Baseline (Persistence Model)
-2. Linear Regression
-3. Random Forest Regressor
-4. Gradient Boosting Regressor
-5. Ensemble Model
+Implemented and compared multiple models:
+- Baseline (Persistence Model)
+- Linear Regression
+- Random Forest Regressor
+- Gradient Boosting Regressor
+- Ensemble Model
 
 5. **Advanced Analysis**
 - Anomaly Detection using Isolation Forest
