@@ -118,3 +118,6 @@ Run the notebook:
 ```bash
 jupyter notebook
 ```
+
+## Author
+Chamani Shiranthika, PhD candidate, Simon Fraser University, Canada
