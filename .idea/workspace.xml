@@ -26,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="91">
-                <caret line="100" column="20" lean-forward="true" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+              <first_editor relative-caret-position="340">
+                <caret line="104" column="21" lean-forward="true" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,10 +57,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="284" />
-    <option name="y" value="157" />
-    <option name="width" value="580" />
-    <option name="height" value="674" />
+    <option name="x" value="50" />
+    <option name="y" value="130" />
+    <option name="width" value="1413" />
+    <option name="height" value="1245" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -82,7 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MuCALD_SplitFed/README.md" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../chamanishiranthika_CV-main" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -114,11 +114,11 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12118019" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12118019" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -153,8 +153,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="91">
-            <caret line="100" column="20" lean-forward="true" selection-start-line="100" selection-start-column="20" selection-end-line="100" selection-end-column="20" />
+          <first_editor relative-caret-position="340">
+            <caret line="104" column="21" lean-forward="true" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
