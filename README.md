@@ -91,15 +91,23 @@ Implemented and compared multiple models:
 - Country Converter
 
 ## Repository Structure
-├── data/
-├── notebooks/
-│   └── weather_analysis.ipynb
-├── outputs/
-│   ├── plots/
-│   └── results/
-├── README.md
-└── requirements.txt
 
+├── data/
+
+├── notebooks/
+
+│   └── weather_analysis.ipynb
+
+├── outputs/
+
+│   ├── plots/
+
+│   └── results/
+
+├── README.md
+
+└── requirements.txt
+>
 
 ## How to Run
 Clone the repository:
