@@ -124,7 +124,7 @@ pip install -r requirements.txt
 
 Run the notebook:
 ```bash
-jupyter notebook
+jupyter notebook SkyPredictor[weatherdata_Analysis].ipynb
 ```
 
 ## Author
